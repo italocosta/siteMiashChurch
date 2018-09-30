@@ -327,3 +327,26 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
 .portfoli-content:before {
   background-color: RGBA(112, 161, 0, 0.7);
 }
+
+.social-footer a i {
+    border: 1px solid #70A100;
+}
+
+a {
+  color: #70A100;
+}
+
+.team-members-tow .social-icons .fa-instagram:hover {
+  color: #9b6954;
+}
+
+.social-footer .fa-instagram:hover {
+  background: #9b6954;
+  color: #fff;
+  border-color: #9b6954;
+}
+.social-footer .fa-youtube:hover {
+  background: #dd4b39;
+  color: #fff;
+  border-color: #dd4b39;
+}
