@@ -82,6 +82,11 @@ a a:focus {
   outline: none;
 }
 
+
+.navbar-nav .nav-link{
+  color: #585b60;
+}
+
 .navbar-expand-lg .navbar-nav .active > .nav-link,
 .navbar-expand-lg .navbar-nav .nav-link.active,
 .navbar-expand-lg .navbar-nav .nav-link.open,
